@@ -1,6 +1,5 @@
-const first = `Brook`;
-const second = `Momonuske`;
-const third = `Yamato`;
-const fourth = `jinbei`;
+const first = "Salim";
+const second = "Salman";
+const third = "Sammu";
 
-module.exports = { first, second, third, fourth };
+module.exports = { first, second, third };
